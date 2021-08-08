@@ -46,6 +46,6 @@ python3 test-去中文化.py
 ## 参考
 #### 用到的所有文件来源: <a href="https://www.shuzhiduo.com/A/q4zVRBrlzK/" target="_blank">核心验证程序代码</a>
 #### 被抄袭者脚本: <a href="https://github.com/YAWAsau/backup_script/blob/68648b4afa1bc73878072f1a41bbf07f740fb819/backup.sh" target="_blank">Here</a>
-#### 抄袭者脚本: 由被抄袭者提供
+#### 抄袭者脚本: 由被抄袭者提供 -> <a href="https://raw.githubusercontent.com/kmou424/What-a-similar-script/main/1.png" target="_blank">传送门</a>
 #### 验证数据有效性的参考脚本: <a href="https://github.com/kmou424/toolbox/blob/fce66a3b7764ee8c95c43a8ceda016d91501cca2/video/compress_video_enhanced.sh" target="_blank">Here</a>
 #### tips:若对数据抱有疑问请自行下载源代码进行本地运行验证
